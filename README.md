@@ -1,0 +1,2 @@
+# faika
+linux pc
